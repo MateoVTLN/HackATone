@@ -120,7 +120,7 @@ const synth2 = new Tone.Synth({
     synth.triggerAttackRelease("C4", "4n");
 }, 1000)
 */
-Tone.Transport.bpm.value = 200;
+Tone.Transport.bpm.value = 126;
 const melody = ["C4", "D4", "E4", "C4"];
 const harmonics = ["A3", "B3", "E4", "A3"];
 
